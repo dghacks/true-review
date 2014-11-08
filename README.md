@@ -1,4 +1,4 @@
 true-review
 ===========
 
-Generalize Amazon reviews to one word. Chrome Extension 
+Chrome Extension which generalizes all Amazon reviews for a specific product to one word. 

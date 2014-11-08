@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "true review",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Find the most common words used in the reviews of Amazon products in the results!",
+    "description": "The description of the application"
+  }
+}
